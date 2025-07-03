@@ -26,7 +26,8 @@ main {
     justify-content: center;
 }
 .gallery img {
-    max-width: 300px;
+    width: 100%
+    max-width: 200px;
     height: auto;
     border: 2px solid white;
     border-radius: 10px;
